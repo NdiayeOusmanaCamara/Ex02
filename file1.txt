@@ -1,0 +1,2 @@
+Contenu initial de file1.txt
+Contenu supplémentaire dans file1.txt
